@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@500;600&display=swap');
+
+.mainFont {
+    font-family: 'Exo';
+}
+
 .bg-custom1 {
     background-color: #EB1D20;
+}
+
+.text-custom1 {
+    color: #EB1D20;
 }
 
 

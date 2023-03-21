@@ -16,7 +16,7 @@ import { Link } from 'react-router-dom';
 const Header = () => {
     return (
 
-        <Navbar className='bg-custom1 !text-white' variant="dark">
+        <Navbar className='bg-custom1' variant="dark">
             <Container>
                 <Link to="/" className='navBrand'>
                     <div className='h-full px-4 py-3 bg-white logoClass'><img src={logo} alt="" /></div>
