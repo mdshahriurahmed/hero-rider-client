@@ -1,0 +1,49 @@
+.homeMenu {
+    display: block !important;
+    color: white !important;
+    text-decoration: none;
+}
+
+.loginBtn {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #EB1D20;
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+}
+
+.SignupBtn {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: white;
+    border: 2px solid white;
+    color: #EB1D20;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.logoClass img {
+    width: 150px;
+}
+
+.signUpLogIn {
+    display: inline !important;
+}
+
+
+@media screen and (max-width:525px) {
+    .logoClass img {
+        width: 100px;
+    }
+
+    .homeMenu {
+        display: none !important;
+    }
+
+    .signUpLogIn {
+        display: none !important;
+    }
+
+
+}
