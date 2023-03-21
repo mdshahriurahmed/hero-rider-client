@@ -1,0 +1,17 @@
+.bg-custom1 {
+    background-color: #EB1D20;
+}
+
+.logoClass img {
+    width: 150px;
+}
+
+.navbar {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.navBrand {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
